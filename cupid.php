@@ -1,6 +1,6 @@
 <?php
 /* ===============================================
-* Name: Cupids Arrow Through Your Heart!
+* Name: Cupids Arrow Through Your Heart!!
 * Date: Feb 2018
 * Desc: A script for printing charts of Sakura 
 *        oTCG's COUPON system.
