@@ -1,4 +1,4 @@
-function show_colworth($tcg, $deckname = '') {
+<?php function show_colworth($tcg, $deckname = '') {
 	// eTCG plugin
 	// Shows the worth of a specific collecting deck with thier name
 	// without showing the deck
@@ -36,3 +36,4 @@ function show_colworth($tcg, $deckname = '') {
 		
 	}
 }
+?>
