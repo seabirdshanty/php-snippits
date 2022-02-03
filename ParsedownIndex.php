@@ -15,6 +15,9 @@ or just slam the whole design into one file if you so wish.
 
 */
 
+$_GET = filter_input_array(INPUT_GET, FILTER_SANITIZE_STRING); 
+# SANITIZE FIRST FOR THE LOVE OF GOD
+
 # header for your header needs
 require_once( './header.htm' );
 # puts in parsedown immedietely.
