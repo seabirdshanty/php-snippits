@@ -12,6 +12,10 @@ So here I am, Sam I am!
 Requires UberGallery, using the Uber-Naked theme.
 Coded for Bootstrap
 
+NOTE: THIS VERSION IS OUTDATED! 
+Please visit my UberGallery fork for a more updated version:
+https://github.com/seabirdshanty/SUberGallery
+
 */
 session_start();
 
